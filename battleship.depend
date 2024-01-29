@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1394565912 source:c:\users\joakim\dropbox\program\battleship\main.cpp
+	<iostream>
+
+1394563596 source:c:\users\joakim\dropbox\program\battleship\controlls.cpp
+	<iostream>
+
+1396225539 source:e:\dropbox\program\battleship\controlls.cpp
+	<iostream>
+	<stdlib.h>
+	"controlls.h"
+
+1396231459 source:e:\dropbox\program\battleship\main.cpp
+	<iostream>
+	"controlls.h"
+	"essentials.h"
+
+1396226150 e:\dropbox\program\battleship\controlls.h
+	<string>
+
+1396301524 source:e:\dropbox\program\battleship\essentials.cpp
+	"essentials.h"
+	"controlls.h"
+	<string>
+	<iostream>
+
+1396303127 e:\dropbox\program\battleship\essentials.h
+	<string>
+
+1395703261 source:e:\dropbox\program\battleship\botplayer.cpp
+
+1395796347 source:e:\dropbox\program\battleship\bot.cpp
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	"bot.h"
+
+1395796279 e:\dropbox\program\battleship\bot.h
+
+1395796347 source:e:\dropbox\program_c++\battleship\bot.cpp
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	"bot.h"
+
+1395796279 e:\dropbox\program_c++\battleship\bot.h
+
+1395703261 source:e:\dropbox\program_c++\battleship\botplayer.cpp
+
+1396476591 source:e:\dropbox\program_c++\battleship\essentials.cpp
+	<iostream>
+	"essentials.h"
+	"controlls.h"
+
+1396478308 e:\dropbox\program_c++\battleship\essentials.h
+	<string>
+
+1396478308 e:\dropbox\program_c++\battleship\controlls.h
+	<string>
+
+1396478485 source:e:\dropbox\program_c++\battleship\controlls.cpp
+	<iostream>
+	<stdlib.h>
+	"controlls.h"
+
+1396478485 source:e:\dropbox\program_c++\battleship\main.cpp
+	<iostream>
+	"controlls.h"
+	"essentials.h"
+
